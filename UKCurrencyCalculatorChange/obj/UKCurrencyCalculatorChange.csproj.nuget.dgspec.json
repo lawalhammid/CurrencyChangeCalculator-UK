@@ -1,0 +1,138 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\USER\\Documents\\InterviewTest\\UKCurrencyCalculatorChange\\UKCurrencyCalculatorChange\\UKCurrencyCalculatorChange.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\USER\\Documents\\InterviewTest\\UKCurrencyCalculatorChange\\BusinessLogic\\BusinessLogic.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\USER\\Documents\\InterviewTest\\UKCurrencyCalculatorChange\\BusinessLogic\\BusinessLogic.csproj",
+        "projectName": "BusinessLogic",
+        "projectPath": "C:\\Users\\USER\\Documents\\InterviewTest\\UKCurrencyCalculatorChange\\BusinessLogic\\BusinessLogic.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\USER\\Documents\\InterviewTest\\UKCurrencyCalculatorChange\\Models\\Models.csproj": {
+                "projectPath": "C:\\Users\\USER\\Documents\\InterviewTest\\UKCurrencyCalculatorChange\\Models\\Models.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\USER\\Documents\\InterviewTest\\UKCurrencyCalculatorChange\\Models\\Models.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\USER\\Documents\\InterviewTest\\UKCurrencyCalculatorChange\\Models\\Models.csproj",
+        "projectName": "Models",
+        "projectPath": "C:\\Users\\USER\\Documents\\InterviewTest\\UKCurrencyCalculatorChange\\Models\\Models.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\USER\\Documents\\InterviewTest\\UKCurrencyCalculatorChange\\UKCurrencyCalculatorChange\\UKCurrencyCalculatorChange.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\USER\\Documents\\InterviewTest\\UKCurrencyCalculatorChange\\UKCurrencyCalculatorChange\\UKCurrencyCalculatorChange.csproj",
+        "projectName": "UKCurrencyCalculatorChange",
+        "projectPath": "C:\\Users\\USER\\Documents\\InterviewTest\\UKCurrencyCalculatorChange\\UKCurrencyCalculatorChange\\UKCurrencyCalculatorChange.csproj",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\USER\\Documents\\InterviewTest\\UKCurrencyCalculatorChange\\UKCurrencyCalculatorChange\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\USER\\Documents\\InterviewTest\\UKCurrencyCalculatorChange\\BusinessLogic\\BusinessLogic.csproj": {
+                "projectPath": "C:\\Users\\USER\\Documents\\InterviewTest\\UKCurrencyCalculatorChange\\BusinessLogic\\BusinessLogic.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.FileExtensions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.Extensions.Logging.Console": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Nancy": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Nito.AsyncEx.Context": {
+              "target": "Package",
+              "version": "[5.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

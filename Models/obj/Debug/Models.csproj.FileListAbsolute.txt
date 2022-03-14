@@ -1,0 +1,12 @@
+C:\Users\USER\Documents\InterviewTest\UKCurrencyCalculatorChange\Models\bin\Debug\Models.dll
+C:\Users\USER\Documents\InterviewTest\UKCurrencyCalculatorChange\Models\bin\Debug\Models.pdb
+C:\Users\USER\Documents\InterviewTest\UKCurrencyCalculatorChange\Models\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\USER\Documents\InterviewTest\UKCurrencyCalculatorChange\Models\bin\Debug\nunit.framework.dll
+C:\Users\USER\Documents\InterviewTest\UKCurrencyCalculatorChange\Models\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\USER\Documents\InterviewTest\UKCurrencyCalculatorChange\Models\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\USER\Documents\InterviewTest\UKCurrencyCalculatorChange\Models\bin\Debug\nunit.framework.xml
+C:\Users\USER\Documents\InterviewTest\UKCurrencyCalculatorChange\Models\obj\Debug\Models.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\InterviewTest\UKCurrencyCalculatorChange\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\InterviewTest\UKCurrencyCalculatorChange\Models\obj\Debug\Models.csproj.CopyComplete
+C:\Users\USER\Documents\InterviewTest\UKCurrencyCalculatorChange\Models\obj\Debug\Models.dll
+C:\Users\USER\Documents\InterviewTest\UKCurrencyCalculatorChange\Models\obj\Debug\Models.pdb
