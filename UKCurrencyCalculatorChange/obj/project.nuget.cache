@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "S6iHNOdcr+lPG00HY0pbxpIJ32VAHgX5nyiJhzcNXpajBw2cXUMi/HXYI/RtP6eX0BNOuCTY0Hk0StW+ekj2tg==",
+  "dgSpecHash": "+PS+bJD8Cbmc2+4qyQSyQ6yaNIVXMsgWEDqKRpnC5ULcVJ6AxXxNGv6AaZ5BwWbt7jHY0JgsJXKfL3LatO1OZw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\USER\\Documents\\InterviewTest\\UKCurrencyCalculatorChange\\UKCurrencyCalculatorChange\\UKCurrencyCalculatorChange.csproj",
+  "projectFilePath": "C:\\Users\\USER\\Documents\\InterviewTest\\UKCurrencyCalculatorChange\\CurrencyChangeCalculator-UK\\UKCurrencyCalculatorChange\\UKCurrencyCalculatorChange.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.dotnet.platformabstractions\\2.0.4\\microsoft.dotnet.platformabstractions.2.0.4.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.0\\microsoft.extensions.configuration.6.0.0.nupkg.sha512",

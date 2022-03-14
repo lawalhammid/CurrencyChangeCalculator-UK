@@ -7,3 +7,12 @@ C:\Users\USER\Documents\InterviewTest\UKCurrencyCalculatorChange\BusinessLogic\o
 C:\Users\USER\Documents\InterviewTest\UKCurrencyCalculatorChange\BusinessLogic\obj\Debug\BusinessLogic.csproj.CopyComplete
 C:\Users\USER\Documents\InterviewTest\UKCurrencyCalculatorChange\BusinessLogic\obj\Debug\BusinessLogic.dll
 C:\Users\USER\Documents\InterviewTest\UKCurrencyCalculatorChange\BusinessLogic\obj\Debug\BusinessLogic.pdb
+C:\Users\USER\Documents\InterviewTest\UKCurrencyCalculatorChange\CurrencyChangeCalculator-UK\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\USER\Documents\InterviewTest\UKCurrencyCalculatorChange\CurrencyChangeCalculator-UK\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\USER\Documents\InterviewTest\UKCurrencyCalculatorChange\CurrencyChangeCalculator-UK\BusinessLogic\bin\Debug\Models.dll
+C:\Users\USER\Documents\InterviewTest\UKCurrencyCalculatorChange\CurrencyChangeCalculator-UK\BusinessLogic\bin\Debug\Models.pdb
+C:\Users\USER\Documents\InterviewTest\UKCurrencyCalculatorChange\CurrencyChangeCalculator-UK\BusinessLogic\obj\Debug\BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\InterviewTest\UKCurrencyCalculatorChange\CurrencyChangeCalculator-UK\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\InterviewTest\UKCurrencyCalculatorChange\CurrencyChangeCalculator-UK\BusinessLogic\obj\Debug\BusinessLogic.csproj.CopyComplete
+C:\Users\USER\Documents\InterviewTest\UKCurrencyCalculatorChange\CurrencyChangeCalculator-UK\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\USER\Documents\InterviewTest\UKCurrencyCalculatorChange\CurrencyChangeCalculator-UK\BusinessLogic\obj\Debug\BusinessLogic.pdb

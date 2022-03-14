@@ -6488,11 +6488,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\USER\\Documents\\InterviewTest\\UKCurrencyCalculatorChange\\UKCurrencyCalculatorChange\\UKCurrencyCalculatorChange.csproj",
+      "projectUniqueName": "C:\\Users\\USER\\Documents\\InterviewTest\\UKCurrencyCalculatorChange\\CurrencyChangeCalculator-UK\\UKCurrencyCalculatorChange\\UKCurrencyCalculatorChange.csproj",
       "projectName": "UKCurrencyCalculatorChange",
-      "projectPath": "C:\\Users\\USER\\Documents\\InterviewTest\\UKCurrencyCalculatorChange\\UKCurrencyCalculatorChange\\UKCurrencyCalculatorChange.csproj",
+      "projectPath": "C:\\Users\\USER\\Documents\\InterviewTest\\UKCurrencyCalculatorChange\\CurrencyChangeCalculator-UK\\UKCurrencyCalculatorChange\\UKCurrencyCalculatorChange.csproj",
       "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\USER\\Documents\\InterviewTest\\UKCurrencyCalculatorChange\\UKCurrencyCalculatorChange\\obj\\",
+      "outputPath": "C:\\Users\\USER\\Documents\\InterviewTest\\UKCurrencyCalculatorChange\\CurrencyChangeCalculator-UK\\UKCurrencyCalculatorChange\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6509,8 +6509,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\USER\\Documents\\InterviewTest\\UKCurrencyCalculatorChange\\BusinessLogic\\BusinessLogic.csproj": {
-              "projectPath": "C:\\Users\\USER\\Documents\\InterviewTest\\UKCurrencyCalculatorChange\\BusinessLogic\\BusinessLogic.csproj"
+            "C:\\Users\\USER\\Documents\\InterviewTest\\UKCurrencyCalculatorChange\\CurrencyChangeCalculator-UK\\BusinessLogic\\BusinessLogic.csproj": {
+              "projectPath": "C:\\Users\\USER\\Documents\\InterviewTest\\UKCurrencyCalculatorChange\\CurrencyChangeCalculator-UK\\BusinessLogic\\BusinessLogic.csproj"
             }
           }
         }

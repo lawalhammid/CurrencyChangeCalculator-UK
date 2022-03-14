@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vFJ7I+33uzd/Vsa6+lUaKREJRi4MnOYZCrwHuwWmJHNMig0Sd7oKT6r0MnOJjtX7U4FSVnTfwN/H6oXjOUINqQ==",
+  "dgSpecHash": "NsAQZ8bTMgmNIT6eKr+aEKBjBxaF/wjnDrUMLWF78Whi37qdMet1LiA7Oj8s9hK+jkEINDYsXxod479UG58p8Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\USER\\Documents\\InterviewTest\\UKCurrencyCalculatorChange\\UKCurrencyCalculatorChangeTest\\UKCurrencyCalculatorChangeTest.csproj",
+  "projectFilePath": "C:\\Users\\USER\\Documents\\InterviewTest\\UKCurrencyCalculatorChange\\CurrencyChangeCalculator-UK\\UKCurrencyCalculatorChangeTest\\UKCurrencyCalculatorChangeTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USER\\.nuget\\packages\\castle.core\\4.4.1\\castle.core.4.4.1.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",

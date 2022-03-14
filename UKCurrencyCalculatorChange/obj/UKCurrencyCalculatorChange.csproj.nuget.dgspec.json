@@ -1,19 +1,19 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\USER\\Documents\\InterviewTest\\UKCurrencyCalculatorChange\\UKCurrencyCalculatorChange\\UKCurrencyCalculatorChange.csproj": {}
+    "C:\\Users\\USER\\Documents\\InterviewTest\\UKCurrencyCalculatorChange\\CurrencyChangeCalculator-UK\\UKCurrencyCalculatorChange\\UKCurrencyCalculatorChange.csproj": {}
   },
   "projects": {
-    "C:\\Users\\USER\\Documents\\InterviewTest\\UKCurrencyCalculatorChange\\BusinessLogic\\BusinessLogic.csproj": {
+    "C:\\Users\\USER\\Documents\\InterviewTest\\UKCurrencyCalculatorChange\\CurrencyChangeCalculator-UK\\BusinessLogic\\BusinessLogic.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\Documents\\InterviewTest\\UKCurrencyCalculatorChange\\BusinessLogic\\BusinessLogic.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\Documents\\InterviewTest\\UKCurrencyCalculatorChange\\CurrencyChangeCalculator-UK\\BusinessLogic\\BusinessLogic.csproj",
         "projectName": "BusinessLogic",
-        "projectPath": "C:\\Users\\USER\\Documents\\InterviewTest\\UKCurrencyCalculatorChange\\BusinessLogic\\BusinessLogic.csproj",
+        "projectPath": "C:\\Users\\USER\\Documents\\InterviewTest\\UKCurrencyCalculatorChange\\CurrencyChangeCalculator-UK\\BusinessLogic\\BusinessLogic.csproj",
         "frameworks": {
           "net472": {
             "projectReferences": {
-              "C:\\Users\\USER\\Documents\\InterviewTest\\UKCurrencyCalculatorChange\\Models\\Models.csproj": {
-                "projectPath": "C:\\Users\\USER\\Documents\\InterviewTest\\UKCurrencyCalculatorChange\\Models\\Models.csproj"
+              "C:\\Users\\USER\\Documents\\InterviewTest\\UKCurrencyCalculatorChange\\CurrencyChangeCalculator-UK\\Models\\Models.csproj": {
+                "projectPath": "C:\\Users\\USER\\Documents\\InterviewTest\\UKCurrencyCalculatorChange\\CurrencyChangeCalculator-UK\\Models\\Models.csproj"
               }
             }
           }
@@ -23,11 +23,11 @@
         "net472": {}
       }
     },
-    "C:\\Users\\USER\\Documents\\InterviewTest\\UKCurrencyCalculatorChange\\Models\\Models.csproj": {
+    "C:\\Users\\USER\\Documents\\InterviewTest\\UKCurrencyCalculatorChange\\CurrencyChangeCalculator-UK\\Models\\Models.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\Documents\\InterviewTest\\UKCurrencyCalculatorChange\\Models\\Models.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\Documents\\InterviewTest\\UKCurrencyCalculatorChange\\CurrencyChangeCalculator-UK\\Models\\Models.csproj",
         "projectName": "Models",
-        "projectPath": "C:\\Users\\USER\\Documents\\InterviewTest\\UKCurrencyCalculatorChange\\Models\\Models.csproj",
+        "projectPath": "C:\\Users\\USER\\Documents\\InterviewTest\\UKCurrencyCalculatorChange\\CurrencyChangeCalculator-UK\\Models\\Models.csproj",
         "frameworks": {
           "net472": {
             "projectReferences": {}
@@ -38,14 +38,14 @@
         "net472": {}
       }
     },
-    "C:\\Users\\USER\\Documents\\InterviewTest\\UKCurrencyCalculatorChange\\UKCurrencyCalculatorChange\\UKCurrencyCalculatorChange.csproj": {
+    "C:\\Users\\USER\\Documents\\InterviewTest\\UKCurrencyCalculatorChange\\CurrencyChangeCalculator-UK\\UKCurrencyCalculatorChange\\UKCurrencyCalculatorChange.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\Documents\\InterviewTest\\UKCurrencyCalculatorChange\\UKCurrencyCalculatorChange\\UKCurrencyCalculatorChange.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\Documents\\InterviewTest\\UKCurrencyCalculatorChange\\CurrencyChangeCalculator-UK\\UKCurrencyCalculatorChange\\UKCurrencyCalculatorChange.csproj",
         "projectName": "UKCurrencyCalculatorChange",
-        "projectPath": "C:\\Users\\USER\\Documents\\InterviewTest\\UKCurrencyCalculatorChange\\UKCurrencyCalculatorChange\\UKCurrencyCalculatorChange.csproj",
+        "projectPath": "C:\\Users\\USER\\Documents\\InterviewTest\\UKCurrencyCalculatorChange\\CurrencyChangeCalculator-UK\\UKCurrencyCalculatorChange\\UKCurrencyCalculatorChange.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\Documents\\InterviewTest\\UKCurrencyCalculatorChange\\UKCurrencyCalculatorChange\\obj\\",
+        "outputPath": "C:\\Users\\USER\\Documents\\InterviewTest\\UKCurrencyCalculatorChange\\CurrencyChangeCalculator-UK\\UKCurrencyCalculatorChange\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -62,8 +62,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\USER\\Documents\\InterviewTest\\UKCurrencyCalculatorChange\\BusinessLogic\\BusinessLogic.csproj": {
-                "projectPath": "C:\\Users\\USER\\Documents\\InterviewTest\\UKCurrencyCalculatorChange\\BusinessLogic\\BusinessLogic.csproj"
+              "C:\\Users\\USER\\Documents\\InterviewTest\\UKCurrencyCalculatorChange\\CurrencyChangeCalculator-UK\\BusinessLogic\\BusinessLogic.csproj": {
+                "projectPath": "C:\\Users\\USER\\Documents\\InterviewTest\\UKCurrencyCalculatorChange\\CurrencyChangeCalculator-UK\\BusinessLogic\\BusinessLogic.csproj"
               }
             }
           }
